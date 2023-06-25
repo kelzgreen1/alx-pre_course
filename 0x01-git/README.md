@@ -1,1 +1,1 @@
-MY git task 0x01-git
+MY git task 0x01-git.
